@@ -48,6 +48,12 @@ Threshold tuning
   <img src="NF_UNSW.png" width="600"/>
 </p>
 
+## Confusion Matrix
+
+
+<p align="center">
+  <img src="confusion_matrix.png" width="600"/>
+</p>
 
 🛠 Tech Stack
 
