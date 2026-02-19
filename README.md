@@ -52,7 +52,7 @@ Threshold tuning
 
 
 <p align="center">
-  <img src="confusion_matrix.png" width="600"/>
+  <img src="confusion_matrix.png" width="400"/>
 </p>
 
 🛠 Tech Stack
