@@ -41,8 +41,12 @@ SMOTE
 Focal Loss
 Threshold tuning
 
-📈 Results
+## Results
 
+
+<p align="center">
+  <img src="NF_UNSW.png" width="600"/>
+</p>
 
 
 🛠 Tech Stack
