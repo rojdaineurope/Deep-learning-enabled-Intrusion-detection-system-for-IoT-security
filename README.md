@@ -55,6 +55,6 @@ Threshold tuning
   <img src="confusion_matrix.png" width="400"/>
 </p>
 
-🛠 Tech Stack
+Tech Stack
 
-Python • PyTorch • FastAPI • aiokafka
+Python - PyTorch - FastAPI - aiokafka
